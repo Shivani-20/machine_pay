@@ -1,1 +1,1 @@
-# machine_pay
+Details available in master branch.
