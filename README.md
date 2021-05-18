@@ -60,4 +60,22 @@
 
 ![](IMAGES/output13.png)
 
+### Case 6: When I leave out everything
+
+![](IMAGES/output2.png)
+
+#### I click on ok and the main window shows error - the very first thing which is not correct in the datepicker dialog will throw the error, so here it will show incorrect dates error because that is not chosen, later it will got to cost if the user picks the correct date
+
+![](IMAGES/output6.png)
+
+## Case 7: I enter everything incorrectly like the following
+
+![](IMAGES/output14.png)
+
+#### I click on ok and the main window shows error - the very first thing which is not correct in the datepicker dialog will throw the error, so here it will show incorrect dates error because that is not chosen, later it will got to cost if the user picks the correct date
+
+![](IMAGES/output6.png)
+
+
+
 
