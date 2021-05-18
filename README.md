@@ -1,4 +1,6 @@
-## Scope
+## Description
+
+This project is made using JavaFX platform and CSS stylesheet. It can help to calculate the payment of the workers. It helped me to understand how inner dialog works simultaneously with the main pane.
 
 <br/>
 
