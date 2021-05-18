@@ -4,6 +4,12 @@ This project is made using JavaFX platform and CSS stylesheet. It can help to ca
 
 <br/>
 
+## Sequence diagram:
+
+![](IMAGES/sequence.png)
+
+<br/>
+
 ## Output
 
 ### Application opens
