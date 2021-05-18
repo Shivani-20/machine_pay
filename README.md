@@ -12,7 +12,7 @@
 
 ![](IMAGES/output1.png)
 
-### When I click on this button, a dialog where we have to choose the dates and fill in the cost/day
+### When I click on this button, a dialog opens where we have to choose the dates and fill in the cost/day
 
 ![](IMAGES/output2.png)
 
