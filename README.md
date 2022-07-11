@@ -80,7 +80,7 @@ This project is made using JavaFX platform and CSS stylesheet. It can help to ca
 
 ![](IMAGES/output14.png)
 
-#### I click on ok and the main window shows error - the very first thing which is not correct in the datepicker dialog will throw the error, so here it will show incorrect dates error because that is not chosen, later it will got to cost if the user picks the correct date
+#### I click on ok and the main window shows error - the very first thing which is not correct in the datepicker dialog will throw the error, so here it will show incorrect dates error because that is not chosen, later it will go to cost if the user picks the correct date
 
 ![](IMAGES/output6.png)
 
